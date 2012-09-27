@@ -3,7 +3,7 @@
 Repair Trees for Minetest
 
 Copyright (c) 2012 cornernote, Brett O'Donnell <cornernote@gmail.com>
-Source Code: https://github.com/cornernote/minetest-particles
+Source Code: https://github.com/cornernote/minetest-repair_trees
 License: GPLv3
 
 ]]--
